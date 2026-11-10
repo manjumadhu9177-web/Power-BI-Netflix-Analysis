@@ -30,3 +30,9 @@ Key Insights :
 
 Conclusion :
       This Project provides a clear understanding of netflix content trends and customer ratings through interactive Power BI visualizations.
+
+Dashboard Screenshots :
+
+     Page 1 : Home Dashboard
+     Page 2 : Content Analysis
+     Page 3 : Customer Analysis
