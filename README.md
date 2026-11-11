@@ -32,11 +32,7 @@ Conclusion :
       This Project provides a clear understanding of netflix content trends and customer ratings through interactive Power BI visualizations.
 
 Dashboard Screenshots :
-
-     Page 1 : Home Dashboard
-     Page 2 : Content Analysis
-     Page 3 : Customer Analysis
-     ![Home Dashboard](./Netflix%20dashboard%20page%201.png)
-     ![Content Analysis](./Netflix%20dashboard%20page%202.png)
-     ![Customer Analysis](./Netflix%20dashboard%20page%203.png)
+![Home Dashboard](./Netflix%20dashboard%20page%201.ng)
+![Content Analysis](./Netflix%20dashboard%20page%202.png)
+![Customer Analysis](./Netflix%20dashboard%20page%203.png)
      
