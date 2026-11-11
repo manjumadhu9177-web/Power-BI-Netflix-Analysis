@@ -36,3 +36,7 @@ Dashboard Screenshots :
      Page 1 : Home Dashboard
      Page 2 : Content Analysis
      Page 3 : Customer Analysis
+     ! [Home Dashboard](Netflix%20dashboard%20page%201.png)
+     ! [Content Analysis](Netflix%20dashboard%20page%202.png)
+     ! [Customer Analysis](Netflix%20dashboard%20page%203.png)
+     
